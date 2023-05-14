@@ -3,36 +3,36 @@
     "name": "John Doe",
     "email": "johndoe@example.com",
     "phone": "123-456-7890",
-    "group": "Office"
+    "type": "Office"
   },
   {
     "name": "Jane Smith",
     "email": "janesmith@example.com",
     "phone": "555-555-5555",
-    "group": "Faculty"
+    "type": "Faculty"
   },
   {
     "name": "Bob Johnson",
     "email": "bjohnson@example.com",
     "phone": "555-123-4567",
-    "group": "Office"
+    "type": "Office"
   },
   {
     "name": "Sara Lee",
     "email": "saralee@example.com",
     "phone": "555-987-6543",
-    "group": "Faculty"
+    "type": "Faculty"
   },
   {
     "name": "Alex Kim",
     "email": "akim@example.com",
     "phone": "555-555-1234",
-    "group": "Office"
+    "type": "Office"
   },
   {
     "name": "David Brown",
     "email": "dbrown@example.com",
     "phone": "555-555-4321",
-    "group": "Faculty"
+    "type": "Faculty"
   }
 ]

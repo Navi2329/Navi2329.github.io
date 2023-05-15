@@ -1,110 +1,107 @@
 [
   {
     "name": "John Doe",
+    "location": "New York",
+    "cabin_number": "A1",
     "email": "johndoe@example.com",
-    "phone": "555-1234",
-    "type": "Faculty"
+    "type": "office"
   },
   {
     "name": "Jane Smith",
+    "location": "San Francisco",
+    "cabin_number": "B2",
     "email": "janesmith@example.com",
-    "phone": "555-5678",
-    "type": "Faculty"
+    "type": "faculty"
   },
   {
     "name": "Bob Johnson",
+    "location": "Chicago",
+    "cabin_number": "C3",
     "email": "bobjohnson@example.com",
-    "phone": "555-9012",
-    "type": "Faculty"
+    "type": "office"
   },
   {
     "name": "Mary Brown",
+    "location": "Los Angeles",
+    "cabin_number": "D4",
     "email": "marybrown@example.com",
-    "phone": "555-3456",
-    "type": "Faculty"
+    "type": "faculty"
   },
   {
-    "name": "Steve Davis",
-    "email": "stevedavis@example.com",
-    "phone": "555-7890",
-    "type": "Faculty"
+    "name": "Tom Wilson",
+    "location": "Boston",
+    "cabin_number": "E5",
+    "email": "tomwilson@example.com",
+    "type": "office"
   },
   {
     "name": "Samantha Lee",
+    "location": "Seattle",
+    "cabin_number": "F6",
     "email": "samanthalee@example.com",
-    "phone": "555-2345",
-    "type": "Faculty"
+    "type": "faculty"
   },
   {
-    "name": "David Wilson",
-    "email": "davidwilson@example.com",
-    "phone": "555-6789",
-    "type": "Faculty"
+    "name": "Mike Davis",
+    "location": "Miami",
+    "cabin_number": "G7",
+    "email": "mikedavis@example.com",
+    "type": "office"
   },
   {
-    "name": "Emily Taylor",
-    "email": "emilytaylor@example.com",
-    "phone": "555-0123",
-    "type": "Faculty"
+    "name": "Karen White",
+    "location": "Denver",
+    "cabin_number": "H8",
+    "email": "karenwhite@example.com",
+    "type": "faculty"
   },
   {
-    "name": "Tom Anderson",
-    "email": "tomanderson@example.com",
-    "phone": "555-4567",
-    "type": "Faculty"
+    "name": "David Kim",
+    "location": "Atlanta",
+    "cabin_number": "I9",
+    "email": "davidkim@example.com",
+    "type": "office"
   },
   {
-    "name": "Lucy White",
-    "email": "lucywhite@example.com",
-    "phone": "555-8901",
-    "type": "Faculty"
+    "name": "Emily Jones",
+    "location": "Washington DC",
+    "cabin_number": "J10",
+    "email": "emilyjones@example.com",
+    "type": "faculty"
   },
   {
-    "name": "Mark Brown",
-    "email": "markbrown@example.com",
-    "phone": "555-1234",
-    "type": "Office"
+    "name": "James Brown",
+    "location": "Philadelphia",
+    "cabin_number": "K11",
+    "email": "jamesbrown@example.com",
+    "type": "office"
   },
   {
-    "name": "Sarah Johnson",
-    "email": "sarahjohnson@example.com",
-    "phone": "555-5678",
-    "type": "Office"
+    "name": "Linda Martinez",
+    "location": "Houston",
+    "cabin_number": "L12",
+    "email": "lindamartinez@example.com",
+    "type": "faculty"
   },
   {
-    "name": "James Smith",
-    "email": "jamessmith@example.com",
-    "phone": "555-9012",
-    "type": "Office"
+    "name": "Chris Wilson",
+    "location": "Dallas",
+    "cabin_number": "M13",
+    "email": "chriswilson@example.com",
+    "type": "office"
   },
   {
-    "name": "Melissa Davis",
-    "email": "melissadavis@example.com",
-    "phone": "555-3456",
-    "type": "Office"
+    "name": "Julie Thompson",
+    "location": "Phoenix",
+    "cabin_number": "N14",
+    "email": "juliethompson@example.com",
+    "type": "faculty"
   },
   {
-    "name": "Robert Lee",
-    "email": "robertlee@example.com",
-    "phone": "555-7890",
-    "type": "Office"
-  },
-  {
-    "name": "Susan Wilson",
-    "email": "susanwilson@example.com",
-    "phone": "555-2345",
-    "type": "Office"
-  },
-  {
-    "name": "Mike Taylor",
-    "email": "miketaylor@example.com",
-    "phone": "555-6789",
-    "type": "Office"
-  },
-  {
-    "name": "Karen Anderson",
-    "email": "karenanderson@example.com",
-    "phone": "555-9013",
-    "type": "Office"
+    "name": "Samuel Rodriguez",
+    "location": "Austin",
+    "cabin_number": "O15",
+    "email": "samuelrodriguez@example.com",
+    "type": "office"
   }
 ]

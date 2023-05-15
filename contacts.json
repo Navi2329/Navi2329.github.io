@@ -2,37 +2,109 @@
   {
     "name": "John Doe",
     "email": "johndoe@example.com",
-    "phone": "123-456-7890",
-    "type": "Office"
+    "phone": "555-1234",
+    "type": "Faculty"
   },
   {
     "name": "Jane Smith",
     "email": "janesmith@example.com",
-    "phone": "555-555-5555",
+    "phone": "555-5678",
     "type": "Faculty"
   },
   {
     "name": "Bob Johnson",
-    "email": "bjohnson@example.com",
-    "phone": "555-123-4567",
-    "type": "Office"
-  },
-  {
-    "name": "Sara Lee",
-    "email": "saralee@example.com",
-    "phone": "555-987-6543",
+    "email": "bobjohnson@example.com",
+    "phone": "555-9012",
     "type": "Faculty"
   },
   {
-    "name": "Alex Kim",
-    "email": "akim@example.com",
-    "phone": "555-555-1234",
+    "name": "Mary Brown",
+    "email": "marybrown@example.com",
+    "phone": "555-3456",
+    "type": "Faculty"
+  },
+  {
+    "name": "Steve Davis",
+    "email": "stevedavis@example.com",
+    "phone": "555-7890",
+    "type": "Faculty"
+  },
+  {
+    "name": "Samantha Lee",
+    "email": "samanthalee@example.com",
+    "phone": "555-2345",
+    "type": "Faculty"
+  },
+  {
+    "name": "David Wilson",
+    "email": "davidwilson@example.com",
+    "phone": "555-6789",
+    "type": "Faculty"
+  },
+  {
+    "name": "Emily Taylor",
+    "email": "emilytaylor@example.com",
+    "phone": "555-0123",
+    "type": "Faculty"
+  },
+  {
+    "name": "Tom Anderson",
+    "email": "tomanderson@example.com",
+    "phone": "555-4567",
+    "type": "Faculty"
+  },
+  {
+    "name": "Lucy White",
+    "email": "lucywhite@example.com",
+    "phone": "555-8901",
+    "type": "Faculty"
+  },
+  {
+    "name": "Mark Brown",
+    "email": "markbrown@example.com",
+    "phone": "555-1234",
     "type": "Office"
   },
   {
-    "name": "David Brown",
-    "email": "dbrown@example.com",
-    "phone": "555-555-4321",
-    "type": "Faculty"
+    "name": "Sarah Johnson",
+    "email": "sarahjohnson@example.com",
+    "phone": "555-5678",
+    "type": "Office"
+  },
+  {
+    "name": "James Smith",
+    "email": "jamessmith@example.com",
+    "phone": "555-9012",
+    "type": "Office"
+  },
+  {
+    "name": "Melissa Davis",
+    "email": "melissadavis@example.com",
+    "phone": "555-3456",
+    "type": "Office"
+  },
+  {
+    "name": "Robert Lee",
+    "email": "robertlee@example.com",
+    "phone": "555-7890",
+    "type": "Office"
+  },
+  {
+    "name": "Susan Wilson",
+    "email": "susanwilson@example.com",
+    "phone": "555-2345",
+    "type": "Office"
+  },
+  {
+    "name": "Mike Taylor",
+    "email": "miketaylor@example.com",
+    "phone": "555-6789",
+    "type": "Office"
+  },
+  {
+    "name": "Karen Anderson",
+    "email": "karenanderson@example.com",
+    "phone": "555-9013",
+    "type": "Office"
   }
 ]

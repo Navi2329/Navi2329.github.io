@@ -2,106 +2,177 @@
   {
     "name": "John Doe",
     "location": "New York",
-    "cabin_number": "A1",
+    "cabin": "123",
     "email": "johndoe@example.com",
-    "type": "office"
+    "phone": "+1 123-456-7890",
+    "department": "Sales"
   },
   {
     "name": "Jane Smith",
     "location": "San Francisco",
-    "cabin_number": "B2",
+    "cabin": "456",
     "email": "janesmith@example.com",
-    "type": "faculty"
+    "phone": "+1 987-654-3210",
+    "department": "Marketing"
   },
   {
-    "name": "Bob Johnson",
-    "location": "Chicago",
-    "cabin_number": "C3",
-    "email": "bobjohnson@example.com",
-    "type": "office"
+    "name": "David Johnson",
+    "location": "London",
+    "cabin": "789",
+    "email": "davidjohnson@example.com",
+    "phone": "+44 123-456-7890",
+    "department": "Engineering"
   },
   {
-    "name": "Mary Brown",
+    "name": "Emily Brown",
+    "location": "Paris",
+    "cabin": "246",
+    "email": "emilybrown@example.com",
+    "phone": "+33 987-654-3210",
+    "department": "Finance"
+  },
+  {
+    "name": "Michael Lee",
+    "location": "Tokyo",
+    "cabin": "135",
+    "email": "michaellee@example.com",
+    "phone": "+81 123-456-7890",
+    "department": "HR"
+  },
+  {
+    "name": "Sarah Wilson",
+    "location": "Sydney",
+    "cabin": "579",
+    "email": "sarahwilson@example.com",
+    "phone": "+61 987-654-3210",
+    "department": "Operations"
+  },
+  {
+    "name": "Robert Martinez",
     "location": "Los Angeles",
-    "cabin_number": "D4",
-    "email": "marybrown@example.com",
-    "type": "faculty"
+    "cabin": "975",
+    "email": "robertmartinez@example.com",
+    "phone": "+1 123-456-7890",
+    "department": "Sales"
   },
   {
-    "name": "Tom Wilson",
-    "location": "Boston",
-    "cabin_number": "E5",
-    "email": "tomwilson@example.com",
-    "type": "office"
+    "name": "Olivia Taylor",
+    "location": "Berlin",
+    "cabin": "864",
+    "email": "oliviataylor@example.com",
+    "phone": "+49 987-654-3210",
+    "department": "Marketing"
   },
   {
-    "name": "Samantha Lee",
-    "location": "Seattle",
-    "cabin_number": "F6",
-    "email": "samanthalee@example.com",
-    "type": "faculty"
+    "name": "Daniel Anderson",
+    "location": "Toronto",
+    "cabin": "357",
+    "email": "danielanderson@example.com",
+    "phone": "+1 123-456-7890",
+    "department": "Engineering"
   },
   {
-    "name": "Mike Davis",
-    "location": "Miami",
-    "cabin_number": "G7",
-    "email": "mikedavis@example.com",
-    "type": "office"
+    "name": "Sophia Garcia",
+    "location": "Mexico City",
+    "cabin": "246",
+    "email": "sophiagarcia@example.com",
+    "phone": "+52 987-654-3210",
+    "department": "Finance"
   },
   {
-    "name": "Karen White",
-    "location": "Denver",
-    "cabin_number": "H8",
-    "email": "karenwhite@example.com",
-    "type": "faculty"
+    "name": "William Clark",
+    "location": "Rome",
+    "cabin": "135",
+    "email": "williamclark@example.com",
+    "phone": "+39 123-456-7890",
+    "department": "HR"
   },
   {
-    "name": "David Kim",
-    "location": "Atlanta",
-    "cabin_number": "I9",
-    "email": "davidkim@example.com",
-    "type": "office"
+    "name": "Ava Lewis",
+    "location": "Mumbai",
+    "cabin": "579",
+    "email": "avalewis@example.com",
+    "phone": "+91 987-654-3210",
+    "department": "Operations"
   },
   {
-    "name": "Emily Jones",
-    "location": "Washington DC",
-    "cabin_number": "J10",
-    "email": "emilyjones@example.com",
-    "type": "faculty"
+    "name": "Ethan Wright",
+    "location": "Seoul",
+    "cabin": "975",
+    "email": "ethanwright@example.com",
+    "phone": "+82 123-456-7890",
+    "department": "Sales"
   },
   {
-    "name": "James Brown",
-    "location": "Philadelphia",
-    "cabin_number": "K11",
-    "email": "jamesbrown@example.com",
-    "type": "office"
+    "name": "Mia Adams",
+    "location": "Madrid",
+    "cabin": "864",
+    "email": "miaadams@example.com",
+    "phone": "+34 987-654-3210",
+    "department": "Marketing"
   },
   {
-    "name": "Linda Martinez",
-    "location": "Houston",
-    "cabin_number": "L12",
-    "email": "lindamartinez@example.com",
-    "type": "faculty"
+    "name": "James Rodriguez",
+    "location": "Buenos Aires",
+    "cabin": "357",
+    "email": "jamesrodriguez@example.com",
+    "phone": "+54 123-456-7890",
+    "department": "Engineering"
   },
   {
-    "name": "Chris Wilson",
-    "location": "Dallas",
-    "cabin_number": "M13",
-    "email": "chriswilson@example.com",
-    "type": "office"
+    "name": "Lily Moore",
+    "location": "São Paulo",
+    "cabin": "246",
+    "email": "lilymoore@example.com",
+    "phone": "+55 987-654-3210",
+    "department": "Finance"
   },
   {
-    "name": "Julie Thompson",
-    "location": "Phoenix",
-    "cabin_number": "N14",
-    "email": "juliethompson@example.com",
-    "type": "faculty"
+    "name": "Benjamin Turner",
+    "location": "Cairo",
+    "cabin": "135",
+    "email": "benjaminturner@example.com",
+    "phone": "+20 123-456-7890",
+    "department": "HR"
   },
   {
-    "name": "Samuel Rodriguez",
-    "location": "Austin",
-    "cabin_number": "O15",
-    "email": "samuelrodriguez@example.com",
-    "type": "office"
+    "name": "Chloe Hall",
+    "location": "Moscow",
+    "cabin": "579",
+    "email": "chloehall@example.com",
+    "phone": "+7 987-654-3210",
+    "department": "Operations"
+  },
+  {
+    "name": "Henry Wood",
+    "location": "Bangkok",
+    "cabin": "975",
+    "email": "henrywood@example.com",
+    "phone": "+66 123-456-7890",
+    "department": "Sales"
+  },
+  {
+    "name": "Victoria Adams",
+    "location": "Melbourne",
+    "cabin": "864",
+    "email": "victoriaadams@example.com",
+    "phone": "+61 987-654-3210",
+    "department": "Marketing"
+  },
+  {
+    "name": "Andrew Martinez",
+    "location": "Helsinki",
+    "cabin": "357",
+    "email": "andrewmartinez@example.com",
+    "phone": "+358 123-456-7890",
+    "department": "Engineering"
+  },
+  {
+    "name": "Grace Thompson",
+    "location": "Stockholm",
+    "cabin": "246",
+    "email": "gracethompson@example.com",
+    "phone": "+46 987-654-3210",
+    "department": "Finance"
   }
 ]

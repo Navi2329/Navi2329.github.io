@@ -1,0 +1,14 @@
+[
+  {
+    "rfidSerialId": "01:2f:9b:d9",
+    "registerNo": "21BCE1729",
+    "name": "Navaneetha Krishnan",
+    "content": "Event A"
+  },
+  {
+    "rfidSerialId": "RFID2",
+    "registerNo": "002",
+    "name": "Jane Smith",
+    "content": "Event B"
+  }
+]

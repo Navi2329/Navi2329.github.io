@@ -17,4 +17,10 @@
     "name": "Raghav",
     "content": "Event C"
   },
+  {
+    "rfidSerialId": "f1:70:99:f0",
+    "registerNo": "21BCE1371",
+    "name": "Mohnish",
+    "content": "Event C"
+  }
 ]

@@ -6,9 +6,15 @@
     "content": "Event A"
   },
   {
-    "rfidSerialId": "RFID2",
-    "registerNo": "002",
-    "name": "Jane Smith",
-    "content": "Event B"
-  }
+    "rfidSerialId": "b1:5b:c9:f0",
+    "registerNo": "21BCE1730",
+    "name": "Venkat",
+    "content": "Event A"
+  },
+    {
+    "rfidSerialId": "93:83:9d:00",
+    "registerNo": "21BCE6199",
+    "name": "Raghav",
+    "content": "Event C"
+  },
 ]
